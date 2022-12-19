@@ -31,3 +31,10 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=for-the-badge&logo=Sublime Texto&logoColor=white">
  <br>
+ 
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dankku)](https://solved.ac/dankku)
+  <br/>
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sweetbii&theme=dracula)](https://github.com/sweetbii/github-readme-activity-graph)
+   <br/>
