@@ -35,7 +35,7 @@
  <br>
  
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dankku)](https://solved.ac/dankku)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dankku})](https://solved.ac/{dankku})
   <br/>
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sweetbii&theme=dracula)](https://github.com/sweetbii/github-readme-activity-graph)
