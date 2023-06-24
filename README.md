@@ -4,8 +4,8 @@
  
 <div align=center>
 <h4 align="center"> 안녕하세요🙌</h4>
-<h5 align="center"> 인공지능 전문가를 꿈꾸고 있는 대학생입니다 </h5>
-<h5 align="center"> CV에 관심이 생겨 Python을 집중적으로 공부중 입니다 </h5>
+<h5 align="center"> 인공지능 전공 대학생입니다 :) </h5>
+<h5 align="center"> 여러 분야를 경험하고 있지만, CV와 자연어 처리 분야에 관심 갖고 있습니다 </h5>
  <br>
 
 <h3 align="center"> SNS list</h3>
